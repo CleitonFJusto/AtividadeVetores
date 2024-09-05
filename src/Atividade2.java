@@ -8,6 +8,6 @@ public class Atividade2 {
         numeros[2] = 9;
         numeros[3] = 12;
 
-        System.out.println("a soma do primeiro e do ultimo número é : " + numeros[0] + numeros[3]);
+        System.out.println("A soma do primeiro e do ultimo número é : " + numeros[0] + numeros[3]);
     }
 }
