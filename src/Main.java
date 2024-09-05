@@ -30,13 +30,17 @@ public class Main {
         votos[6] = 30;
         votos[7] = 20;
         votos[8] = 10;
-       votos[9] = 154;
+        votos[9] = 154;
        String[] nomes = new String[10];
 
     Scanner entrada = new Scanner(System.in);
     nomes[0] = entrada.nextLine();
 
     System.out.println("O primeiro nome é : " + nomes[0]);
+
+    double[] valores = {5.5,10.9,99};
+
+
 
    }
 }
